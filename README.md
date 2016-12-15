@@ -1,5 +1,5 @@
-# departamentos-y-municipios-colombia-SQL
-Departamentos y municipios de Colombia en SQL
+# Departamentos y municipios de Colombia en SQL
+
 Este repocsitorio contiene dos archivos SQL con los departamentos y municipios de Colombia.
 
 #Información de la tablas
