@@ -36,6 +36,7 @@ LOCK TABLES `departamentos` WRITE;
 
 INSERT INTO `departamentos` (`id_departamento`, `departamento`)
 VALUES
+	(5,'ANTIOQUIA'),
 	(8,'ATLÁNTICO'),
 	(11,'BOGOTÁ, D.C.'),
 	(13,'BOLÍVAR'),
